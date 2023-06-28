@@ -13,9 +13,9 @@ module.exports = {
     siteTitle: `Home`,
     siteTitleAlt: `Jose Luis Tello`,
     siteHeadline: `Jose Luis Tello`,
-    siteUrl: `https://joseluistello.gatsby.io`,
+    siteUrl: `https://joseluistello.com`,
     siteDescription: `Curious about businesses, product, and software.`,
-    siteImage: `/banner.jpg`,
+    siteImage: `static/brain.png`,
     author: `@joseluistello`,
   },
   trailingSlash: `never`,
@@ -55,9 +55,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
-        short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        name: `Jose Luis Tello`,
+        short_name: `Jltello`,
+        description: `Curious about businesses, product, and software`,
         start_url: `/`,
         background_color: `#fff`,
         // This will impact how browsers show your PWA/website
